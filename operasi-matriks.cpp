@@ -1,10 +1,11 @@
 #include <iostream>  
 using namespace std;
 
-// Tugas Algoritma Pemrograman II - Operasi Matriks
-// Adi Maulana Amin 
-// Hilwa Khazimah Khoerunisa
-// Ramdan Abdul Latif Hapidin
+// Tugas Algoritma Pemrograman II - Array
+// Operasi Matriks
+// Adi Maulana Amin - 23552011199
+// Hilwa Khazimah Khoerunisa - 23552011399
+// Ramdan Abdul Latif Hapidin - 23552011184
 
 int baris, kolom;
 int pilihan;
